@@ -173,6 +173,28 @@ My future goals include:
 
 
 ---
+# 🌐 Connect With Me
+
+<div align="center">
+
+<div style="display:flex; justify-content:center; gap:20px;">
+
+<a href="https://www.linkedin.com/in/taranpreet-singh-331108296">
+
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+
+</a>
+
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+
+</a>
+
+</div>
+
+</div>
 
 # 🌱 Development Journey
 
