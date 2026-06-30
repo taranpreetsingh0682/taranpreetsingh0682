@@ -196,6 +196,28 @@ My future goals include:
 
 </div>
 
+---
+
+<div align="center">
+
+## 🚀 Thanks for Visiting My Profile
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=700&lines=Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing;Every+Commit+Tells+a+Story"/>
+
+<br>
+
+💻 Building projects • 📚 Learning technologies • 🚀 Improving every day
+
+<br>
+
+⭐ If you find my work interesting, feel free to explore my repositories and support my journey.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:06b6d4&height=100&section=footer"/>
+
+</div>
+
 # 🌱 Development Journey
 
 ```text
